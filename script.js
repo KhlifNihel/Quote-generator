@@ -54,7 +54,6 @@ async function getQuotes() {
         //catch an Error
 
     }
-
 }
 
 //tweet a quote
@@ -66,7 +65,6 @@ function tweetQuote() {
 //event listenners
 newQuoteBtn.addEventListener('click', NewQuote);
 twitterBtn.addEventListener('click', tweetQuote);
-
 
 //on load
 getQuotes();
@@ -80,5 +78,4 @@ function NewQuote() {
     console.log(quote);
 
 }
-
 */ 
