@@ -71,20 +71,6 @@ twitterBtn.addEventListener('click', tweetQuote);
 //on load
 getQuotes();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 // if we want to genrate quotes from local space 
 
